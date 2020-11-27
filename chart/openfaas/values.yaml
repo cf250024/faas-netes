@@ -1,4 +1,4 @@
-functionNamespace: default  # Default namespace for functions
+functionNamespace: openfaas-fn  # Default namespace for functions
 
 async: true
 
